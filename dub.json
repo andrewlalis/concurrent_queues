@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Andrew Lalis"
+	],
+	"copyright": "Copyright © 2023, Andrew Lalis",
+	"description": "A variety of concurrent queue implementations.",
+	"license": "MIT",
+	"name": "concurrent_queues"
+}

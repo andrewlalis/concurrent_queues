@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/concurrent_queues
+concurrent_queues.so
+concurrent_queues.dylib
+concurrent_queues.dll
+concurrent_queues.a
+concurrent_queues.lib
+concurrent_queues-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
